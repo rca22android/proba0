@@ -1,0 +1,39 @@
+
+
+
+*{margin:0px;
+    padding: 0px;}
+
+#contenedor {
+    background-color: brown; 
+    display: flex;
+    
+
+}
+
+#uno {
+width: 50%;
+height: 100vh;
+background-color: beige;
+
+
+}
+
+#dos {
+    position:relative;
+    width: 50%;
+    height: 100vh;
+    background-color:blueviolet ;
+    
+    
+}
+
+#tres {
+    position: absolute;
+    bottom: 0px;
+    width: 50%;
+    height:50vh;
+    background-color:lightblue ;
+    
+    
+    }
